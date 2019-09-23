@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craft5.6.4ff.Plugins", "Craft5.6.4ff.Plugins.csproj", "{1AACFDE9-4B7E-1EDF-D08E-33B0894F5644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craft5.6.4ff", "Craft5.6.4ff.csproj", "{F2BFCAAB-90DD-BEFD-D7DE-02F9E1BC1B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craft5.6.4ff.Editor.Plugins", "Craft5.6.4ff.Editor.Plugins.csproj", "{49287606-64E1-D58B-5FFB-F1317696047D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AACFDE9-4B7E-1EDF-D08E-33B0894F5644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AACFDE9-4B7E-1EDF-D08E-33B0894F5644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AACFDE9-4B7E-1EDF-D08E-33B0894F5644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AACFDE9-4B7E-1EDF-D08E-33B0894F5644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BFCAAB-90DD-BEFD-D7DE-02F9E1BC1B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BFCAAB-90DD-BEFD-D7DE-02F9E1BC1B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BFCAAB-90DD-BEFD-D7DE-02F9E1BC1B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BFCAAB-90DD-BEFD-D7DE-02F9E1BC1B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49287606-64E1-D58B-5FFB-F1317696047D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49287606-64E1-D58B-5FFB-F1317696047D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49287606-64E1-D58B-5FFB-F1317696047D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49287606-64E1-D58B-5FFB-F1317696047D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
